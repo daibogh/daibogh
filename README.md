@@ -1,4 +1,4 @@
-## Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/daibogh?theme=dark&font=Fira%20Code)
 
 <!--
 **daibogh/daibogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
